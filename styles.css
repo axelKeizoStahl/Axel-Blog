@@ -22,7 +22,7 @@ body {
 .posts {
     display: flex;
     flex-direction: column;
-    height: 525px;
+    height: fit-content;
     width: fit-content;
     margin: 10px 20px;
     border: 2px solid black;
