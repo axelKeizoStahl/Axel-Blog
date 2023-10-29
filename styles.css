@@ -19,6 +19,17 @@ body {
     margin-left: 50px;
 }
 
+@media only screen and (max-width: 600px) {
+  .bod {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+}
+
 .posts {
     display: flex;
     flex-direction: column;
