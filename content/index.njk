@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+---
+
+{% set homecss %} {% include "styles/home.css" %} {% endset %}
+<style>
+	{{ homecss | cssmin | safe }}
+</style>
+
+<section>
+	<h1>Axel Stahl's Personal Blog Site</h1>
+	<div id="content">
+		<p>
+            I am a programmer, a student, a pianist, a co-leader of StuyLinux, a Linux User,
+            an Open Source advocate, a dog lover, book lover, music lover, and probably more.
+		</p>
+	</div>
+	<div id="social_media_links">
+		<p>
+			Check out my <a href="/posts">blog</a>!
+		</p>
+        <p>
+            See <a href="https://github.com/axelKeizoStahl">my github</a>
+        </p>
+	</div>
+</section>

@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+
+{% set aboutcss %}
+{% include "styles/about.css" %}
+{% endset %}
+<style>
+    {{aboutcss | cssmin | safe}}</style>
+<section>
+    <h1>About Me</h1>
+    <div id="content">
+        <p>My name is Axel Stahl</p>
+    </div>
+</section>
