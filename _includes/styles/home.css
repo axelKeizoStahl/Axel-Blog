@@ -33,3 +33,16 @@ section {
 .post_link {
 	font-size: 1.2rem;
 }
+
+#blog_preview {
+    margin: 30px auto;
+    background-color: #024950;
+    max-width: 500px;
+    padding: 10px 30px;
+    color: #0fa4af;
+    border-radius: 13px 5px;
+}
+
+#blog_preview_title {
+    color: #afdde5;
+}

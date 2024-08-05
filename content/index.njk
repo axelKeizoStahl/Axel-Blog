@@ -23,4 +23,14 @@ layout: layouts/base.njk
             See <a href="https://github.com/axelKeizoStahl">my github</a>
         </p>
 	</div>
+    <div id="blog_preview">
+        <h2 id="blog_preview_title">Daily Updates</h2>
+        <br>
+        {% set postlist = collections.daily | reverse %} {% include "components/postlist.njk" %}
+    </div>
+    <div id="blog_preview">
+        <h2 id="blog_preview_title">Recent Blog Posts</h2>
+        <br>
+        {% set postlist = collections.posts | reverse %} {% set postlist = postlist.slice(0,2) %} {% include "components/postlist.njk" %}
+    </div>
 </section>
