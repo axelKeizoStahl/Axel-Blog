@@ -5,24 +5,19 @@ author: Axel Stahl [@axelKeizoStahl](https://github.com/axelKeizoStahl)
 ---
 
 ## Wordle
-Today's worlde was a bit tricky, the word is not commonly structured compared to the words of past wordles.
+Not bad. If there was something tricky it was the V (because of it's rarity).
+I was suprised to see April excluded from the word list, but it makes sense.
 
 ## Mini Crossword
-This was really easy today (it's a Monday). 
-I originally thought that 9-across was in the present tense. I think this is natural since "float" is the last thing read, but the verb with the tense-to-look-at is "failed".
+A 6/10 in dificulty.
+For some reason, I couldn't think of the work for 4-down. 1-accross was pretty fun, I couldn't get it until 2 of the letters were shown from 1-, 2-, 3- or 4-down.
 
 ## Crossword
-This wasn't that bad (again, it's a Monday).
-My Mom did half on the paper, and I did the rest with her.
-I redid it online around 6 hours later and it took me a good amount of time.
+Workin' on it.
 
 ## Connections
-I showed my mother this and we ended up doing it together.
-It was not that hard, however, the trickiest section was very interesting.
+Today's was really easy; NYT put today's connections as a 2.7/5.
+Again the hardest one was part of a word/phrase.
 
 ## Strands
-Strands theme usually disagrees with me; fittingly, I didn't like today's theme.
-The theme describes *people* that are "rolling in it".
-It should be things you are rolling in, because *it* is the ambigious part of the phrase.
-The same complaint stands for the spangram.
-This made it more difficult. ~~It makes sense to have difficult themes, though.~~
+Workin' on it.
