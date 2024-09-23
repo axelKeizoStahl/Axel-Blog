@@ -16,7 +16,7 @@ The logs can be a whole bunch of things:
 
 ## Reasons Behind My Blog
 
-There are a many reasons to have a blog--here are the few reasons I created a blog:
+There are a many reasons to have a blog -- here are the few reasons I created a blog:
 
 ### 1. An Album of My Youth
 
